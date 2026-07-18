@@ -1,4 +1,4 @@
 Intan Resolusi
 -Belajar Linux dan Git hub
 -Memperkuat problem solving dengan latihan di buku buku DMW
--Ikut lomba
+-harus Ikut lomba
