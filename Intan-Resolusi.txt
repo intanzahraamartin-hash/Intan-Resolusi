@@ -1,4 +1,5 @@
 Intan Resolusi
 -Belajar Linux dan Git hub
+  *Per hari latih skill minimal 1 jam
 -Memperkuat problem solving dengan latihan di buku buku DMW
 -harus Ikut lomba
